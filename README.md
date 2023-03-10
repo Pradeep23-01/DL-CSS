@@ -1,7 +1,7 @@
 # Deep Learning Techniques for Cooperative Spectrum Sensing Under Generalized Fading Channels
 Deep Learning (DL) for Cooperative Spectrum Sensing (CSS)
 
-Authors: Pradeep Balaji Muthukumar; Samudhyatha B.; Sanjeev Gurugopinath <br />
+**Authors**: Pradeep Balaji Muthukumar; Samudhyatha B.; Sanjeev Gurugopinath <br />
 
 DOI: 10.1109/WiSPNET54241.2022.9767160<br />
 
