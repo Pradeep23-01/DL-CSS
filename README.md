@@ -11,7 +11,7 @@ Full details of the research and to learn more about the methodology, results, a
 
 ## Problem Statement:
 The problem of cooperative spectrum sensing was posed as a binary classification problem, and deep learning-based
-architectures were employed to find the activity of a primary user
+architectures were employed to find the activity of a primary user, and resource allocation to optimize the sensing performance across multiple nodes in the network.
 
 ## Introduction:
 Cooperative spectrum sensing is a technique used to improve the detection of primary users in a cognitive radio network, where secondary users (or cognitive radios) share the spectrum with primary users while ensuring that they do not interfere with primary user communication. In cooperative spectrum sensing, multiple cognitive radios collaborate to detect the presence or absence of primary users.
